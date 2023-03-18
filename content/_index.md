@@ -65,10 +65,10 @@ sections:
         - certificate_url: https://www.coursera.org
           date_end: '2011-03-31'
           date_start: '' # '2021-01-25'
-          description: ''
-          organization: Dissertation: Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling
+          description: Dissertation: Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling
+          organization: The Ohio State University, Colubus, USA
           organization_url: https://www.coursera.org
-          title: **PhD in Earth Sciences**, The Ohio State University, Colubus, USA
+          title: PhD in Earth Sciences
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
