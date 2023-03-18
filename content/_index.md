@@ -62,8 +62,8 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2011-03-31'
-          description: XXX
-          organization: Ohio State University
+          description: Dissertation Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling
+          organization: The Ohio State University Columbus OH USA
           organization_url: https://earthsciences.osu.edu/
           title: PhD in Earth Sciences
           url: ''
