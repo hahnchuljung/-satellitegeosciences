@@ -14,34 +14,34 @@ title: Hahn Chul Jung
 superuser: true
 
 # Role/position/tagline
-role: Professor of Earth System Sciences 
+# role: Professor of Earth System Sciences 
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Yonsei University
-    url: https://www.yonsei.ac.kr/
+#organizations:
+#  - name: Yonsei University
+#    url: https://www.yonsei.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: TEST
 
 # Interests to show in About widget
-interests:
-  - Remote Sensing
-  - Water Resources
-  - Natural Disaster
+#interests:
+#  - Remote Sensing
+#  - Water Resources
+#  - Natural Disaster
 
 # Education to show in About widget
 # education:
- courses:
-    - course: PhD in Satellite Hydrology
-      institution: The Ohio State University
-      year: 2011
-    - course: Msc in Remote Sensing & Geophysics
-      institution: Yonsei University
-      year: 2003
-    - course: BSc in Earth System Sciences
-      institution: Yonsei University
-      year: 1988
+# courses:
+#    - course: PhD in Satellite Hydrology
+#      institution: The Ohio State University
+#      year: 2011
+#    - course: Msc in Remote Sensing & Geophysics
+#      institution: Yonsei University
+#      year: 2003
+#    - course: BSc in Earth System Sciences
+#      institution: Yonsei University
+#      year: 1988
 
 
 
