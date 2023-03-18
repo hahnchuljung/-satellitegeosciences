@@ -49,7 +49,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Education & Experience
+      title: Education
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -117,8 +117,7 @@ sections:
           location: Busan, Korea
           date_start: '2021-03-01'
           date_end: '2023-02-28'
-          description: 
-           description: |2-
+          description: |2-
               * Coastal Remote Sensing   
         - title: Senior Research Scientist
           company: Korea Ocean Satellite Center, Korea Institute of Ocean Science and Technology (KIOST)
@@ -127,8 +126,7 @@ sections:
           location: Busan, Korea
           date_start: '2020-03-01'
           date_end: '2023-02-28'
-          description: 
-           description: |2-
+          description: |2-
               * Spatio-temporal variability of coastal wetlands using Synthetic Aperture Radar
               * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone                      
     design:
