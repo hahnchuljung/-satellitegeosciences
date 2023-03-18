@@ -128,7 +128,28 @@ sections:
           date_end: '2023-02-28'
           description: |2-
               * Spatio-temporal variability of coastal wetlands using Synthetic Aperture Radar
-              * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone                      
+              * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone 
+        - title: Lead & Chief Research Scientist
+          company: NASA Goddard Space Flight Center (GSFC) & Science Systems and Applications, Inc (SSAI)
+          company_url: https://science.gsfc.nasa.gov/earth/hydrology/
+          company_logo: 
+          location: Maryland, USA
+          date_start: '2015-01-01'
+          date_end: '2020-03-01'
+          description: |2-
+              * A West Africa LDAS for forecasting extreme hydrological Events
+              * LIS (Land Information System) modeling
+              * Radar flood mapping 
+        - title: Postdoctoral & Research Associate
+          company: NASA Goddard Space Flight Center (GSFC) & Oak Ridge Associated Universities (ORAU), University of Maryland (UMD)
+          company_url: https://science.gsfc.nasa.gov/earth/hydrology/
+          company_logo: 
+          location: Maryland, USA
+          date_start: '2011-01-01'
+          date_end: '2015-01-01'
+          description: |2-
+              * Radar application on ecosystem and hazard
+              * 2D floodplain hydrodynamic LISFLOOD model                                                     
     design:
       columns: '2'
 
