@@ -50,7 +50,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Education'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -63,10 +63,10 @@ sections:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
+          description: Dissertation: Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling
+          organization: The Ohio State University, Columbus, USA
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Ph.D. in Earth Sciences
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
