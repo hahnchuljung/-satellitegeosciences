@@ -63,8 +63,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org
-          date_end: '2011-03-31'
-          date_start: '2000-01-25'
+          date_end: ''
+          date_start: '2021-01-25'
           description: Dissertation: Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling
           organization: The Ohio State University, Colubus, USA
           organization_url: https://www.coursera.org
