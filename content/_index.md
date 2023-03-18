@@ -67,6 +67,14 @@ sections:
           organization_url: https://earthsciences.osu.edu/
           title: PhD in Earth Sciences
           url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '1998-02-28'
+          description: 
+          organization: Yonsei University Seoul Korea
+          organization_url: http://geo.yonsei.ac.kr/en/
+          title: Bsc in Eaarth System Sciences
+          url: ''          
     design:
       columns: '2'
       
