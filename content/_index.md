@@ -47,56 +47,6 @@ sections:
       columns: '2'
 
 
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Education'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: '' 
-          date_end: '2011-03-'
-          date_start: ''
-          description: Dissertation (Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling)
-          organization: The Ohio State University, Columbus, USA
-          organization_url: https://earthsciences.osu.edu/
-          title: PhD in Earth Sciences
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2003-08-'
-          description: Thesis (Observation of the ground subsidence in Gaeun area using permanent scatterer interferometric synthetic aperture radar)
-          organization: Yonsei University, Seoul, Korea
-          organization_url: http://geo.yonsei.ac.kr/en/
-          title: MSc in Earth System Sciences
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: ''
-          date_end: '1998-02-'
-          date_start: ''
-          description: ''
-          organization: Yonsei University, Seoul, Korea
-          organization_url: http://geo.yonsei.ac.kr/en/
-          title: BSc in Earth System Sciences
-          url: ''
-    design:
-      columns: '2'
-
-      
-
-
-
-
-
-
-
- 
-
   - block: portfolio
     id: projects
     content:
