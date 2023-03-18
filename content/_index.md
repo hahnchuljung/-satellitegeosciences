@@ -62,7 +62,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2011-03-31'
-          description: * Dissertation Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling
+          description: Dissertation-Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling
           organization: The Ohio State University, Columbus, OH, USA
           organization_url: https://earthsciences.osu.edu/
           title: Ph.D. in Earth Sciences
@@ -70,7 +70,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2003-08-28'
-          description: * Thesis Observation of the ground subsidence in Gaeun area using permanent scatterer interferometric synthetic aperture radar
+          description: Thesis-Observation of the ground subsidence in Gaeun area using permanent scatterer interferometric synthetic aperture radar
           organization: Yonsei University, Seoul, Korea
           organization_url: http://geo.yonsei.ac.kr/en/
           title: M.Sc. in Earth System Sciences
