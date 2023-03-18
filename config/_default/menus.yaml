@@ -11,7 +11,7 @@ main:
 #    url: '#posts'
 #    weight: 20
   - name: CV
-    url:  https://satellitegeosciences.netlify.app/uploads/cv.pdf  #uploads/cv.pdf   #https://drive.google.com/file/d/1LADJG9xz_9KfQwXEr7vWIcoKBeRNjgej/view?usp=share_link  
+    url:  https://satellitegeosciences.netlify.app/uploads/cv.pdf  #uploads/cv.pdf  
     weight: 20  
   - name: Research
     url: '#projects'
