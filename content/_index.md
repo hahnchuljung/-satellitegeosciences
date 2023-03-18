@@ -59,12 +59,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2011-03-31'
           description: XXX
           organization: Ohio State University
-          organization_url: https://www.edx.org
+          organization_url: https://earthsciences.osu.edu/
           title: PhD in Earth Sciences
           url: ''
     design:
