@@ -73,7 +73,7 @@ sections:
           description: 
           organization: Yonsei University, Seoul, Korea
           organization_url: http://geo.yonsei.ac.kr/en/
-          title: M.Sc. in Eaarth System Sciences
+          title: M.Sc. in Earth System Sciences
           url: ''         
         - certificate_url: ''
           date_end: ''
@@ -81,7 +81,7 @@ sections:
           description: 
           organization: Yonsei University, Seoul, Korea
           organization_url: http://geo.yonsei.ac.kr/en/
-          title: B.Sc. in Eaarth System Sciences
+          title: B.Sc. in Earth System Sciences
           url: ''          
     design:
       columns: '2'
@@ -101,27 +101,36 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Associate Professor
+          company: Dept. of Earth System Sciences, Yonsei University
+          company_url: http://geo.yonsei.ac.kr/en/
+          company_logo:
+          location: Seoul, Korea
+          date_start: '2023-03-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Satellite Geosciences, Satellite Hydrology
+        - title: Joint Associate Professor
+          company: University of Science & Technology (UST), Ocean Science and Technology (OST)
+          company_url: https://www.ust.ac.kr/eng.do
+          company_logo: 
+          location: Busan, Korea
+          date_start: '2021-03-01'
+          date_end: '2023-02-28'
+          description: 
+           description: |2-
+              * Coastal Remote Sensing   
+        - title: Senior Research Scientist
+          company: Korea Ocean Satellite Center, Korea Institute of Ocean Science and Technology (KIOST)
+          company_url: https://kosc.kiost.ac.kr/index.nm?lang=en&contentId=82
+          company_logo: 
+          location: Busan, Korea
+          date_start: '2020-03-01'
+          date_end: '2023-02-28'
+          description: 
+           description: |2-
+              * Spatio-temporal variability of coastal wetlands using Synthetic Aperture Radar
+              * Development of satellite-based system on monitoring and predicting ship distribution in the contiguous zone                      
     design:
       columns: '2'
 
