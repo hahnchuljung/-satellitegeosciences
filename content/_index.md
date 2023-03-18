@@ -65,24 +65,24 @@ sections:
           date_start: ''
           description: Dissertation (Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling)
           organization: The Ohio State University, Columbus, USA
-          organization_url: https://www.coursera.org
-          title: Ph.D. in Earth Sciences
+          organization_url: https://earthsciences.osu.edu/
+          title: PhD in Earth Sciences
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          date_start: '2003-08-'
+          description: Thesis (Observation of the ground subsidence in Gaeun area using permanent scatterer interferometric synthetic aperture radar)
+          organization: Yonsei University, Seoul, Korea
+          organization_url: http://geo.yonsei.ac.kr/en/
+          title: MSc in Earth System Sciences
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: '1998-02-'
+          date_start: ''
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Yonsei University, Seoul, Korea
+          organization_url: http://geo.yonsei.ac.kr/en/
+          title: BSc in Earth System Sciences
           url: ''
     design:
       columns: '2'
