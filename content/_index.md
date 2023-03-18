@@ -62,18 +62,26 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2011-03-31'
-          description: Dissertation Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling
-          organization: The Ohio State University Columbus OH USA
+          description:
+          organization: The Ohio State University, Columbus, OH, USA
           organization_url: https://earthsciences.osu.edu/
-          title: PhD in Earth Sciences
+          title: Ph.D. in Earth Sciences
           url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2003-08-28'
+          description: 
+          organization: Yonsei University, Seoul, Korea
+          organization_url: http://geo.yonsei.ac.kr/en/
+          title: M.Sc. in Eaarth System Sciences
+          url: ''         
         - certificate_url: ''
           date_end: ''
           date_start: '1998-02-28'
           description: 
-          organization: Yonsei University Seoul Korea
+          organization: Yonsei University, Seoul, Korea
           organization_url: http://geo.yonsei.ac.kr/en/
-          title: Bsc in Eaarth System Sciences
+          title: B.Sc. in Eaarth System Sciences
           url: ''          
     design:
       columns: '2'
