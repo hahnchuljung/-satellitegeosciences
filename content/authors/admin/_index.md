@@ -22,7 +22,7 @@ organizations:
     url: https://www.yonsei.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TEST
+# bio: TEST
 
 # Interests to show in About widget
 interests:
