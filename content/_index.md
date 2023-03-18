@@ -50,7 +50,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Education'
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -60,29 +60,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: '' 
-          date_end: '2011-03-'
-          date_start: ''
-          description: Dissertation (Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling)
-          organization: The Ohio State University, Columbus, USA
-          organization_url: https://earthsciences.osu.edu/
-          title: PhD in Earth Sciences
-          url: ''
-        - certificate_url: ''
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2003-08-'
-          description: Thesis (Observation of the ground subsidence in Gaeun area using permanent scatterer interferometric synthetic aperture radar)
-          organization: Yonsei University, Seoul, Korea
-          organization_url: http://geo.yonsei.ac.kr/en/
-          title: MSc in Earth System Sciences
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: ''
-          date_end: '1998-02-'
-          date_start: ''
+          date_start: '2021-01-25'
           description: ''
-          organization: Yonsei University, Seoul, Korea
-          organization_url: http://geo.yonsei.ac.kr/en/
-          title: BSc in Earth System Sciences
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
     design:
       columns: '2'
