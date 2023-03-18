@@ -63,7 +63,7 @@ sections:
           date_end: ''
           date_start: '2011-03-'
           description: ''
-          organization: THe Ohio State University, Columbus, USA
+          organization: THe Ohio State University Columbus OH USA
           organization_url: https://earthsciences.osu.edu/
           title: PhD in Earth Sciences
           url: ''
