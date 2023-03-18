@@ -63,7 +63,7 @@ sections:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
-          description: Dissertation: Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling
+          description: Dissertation (Wetland hydrodynamics using interferometric synthetic aperture radar, remote sensing, and modeling)
           organization: The Ohio State University, Columbus, USA
           organization_url: https://www.coursera.org
           title: Ph.D. in Earth Sciences
