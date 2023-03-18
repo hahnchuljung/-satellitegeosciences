@@ -61,7 +61,7 @@ sections:
       items:
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2011-03-'
+          date_start: '2011-03-31'
           description: XXX
           organization: Ohio State University
           organization_url: https://www.edx.org
