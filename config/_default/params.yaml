@@ -13,19 +13,19 @@ appearance:
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'satellite geosciences lab @ yonsei university'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+#marketing:
+#  seo:
+#    site_type: Person
+#    local_business_type: ''
+#    org_name: ''
+#    description: 'satellite geosciences lab @ yonsei university'
+#    twitter: 'wowchemy'
+#  analytics:
+#    google_analytics: ''
+#    baidu_tongji: ''
+#  verification:
+#    google: ''
+#   baidu: ''
 
 # Site header
 
