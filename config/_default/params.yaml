@@ -13,12 +13,12 @@ appearance:
 
 # SEO
 
-#marketing:
-#  seo:
-#    site_type: Person
-#    local_business_type: ''
-#    org_name: ''
-#    description: 'satellite geosciences lab @ yonsei university'
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'satellite geosciences lab @ yonsei university'
 #    twitter: 'wowchemy'
 #  analytics:
 #    google_analytics: ''
