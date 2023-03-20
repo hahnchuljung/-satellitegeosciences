@@ -10,7 +10,7 @@ sections:
     content:
       title: SATELLITE GEOSCIENCES LAB
       image:
-        filename: 'lab_qrcode.png' # hero-academic.png (located assets/media/***)
+        filename: '' # 'lab_qrcode.png' # hero-academic.png (located assets/media/***)
       # cta:
         # label: '**Get Started**'
         # url: https://wowchemy.com/templates/
