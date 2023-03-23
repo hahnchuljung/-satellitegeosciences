@@ -205,7 +205,7 @@ sections:
         postcode: '03722'
         country: South Korea
         country_code: KR
-      directions: Science Hall Rm. 645, College of Science, Yonsei University
+      directions: 645 Science Hall, College of Science, Yonsei University
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
