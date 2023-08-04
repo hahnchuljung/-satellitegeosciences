@@ -41,7 +41,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
        This is the webpage of the Satellite Geosciences Research Group at the Department of Earth System Sciences, Yonsei University. The group is led by Hahn Chul Jung, and the research that we do focuses on radar remote sensing, land information system, natural disaster monitoring, and the study of large-schale hydrology. <br /><br />
-       **The lab's doors are always open to PhD, MSc, and undergraduate students looking for research topics. Please feel free to visit me to learn more about possible research topics and programs.**
+       **The lab's door is always open to PhD, MSc, and undergraduate students looking for research topics. Please feel free to visit me to learn more about possible research topics and programs.**
     design:
       columns: '2'
 
